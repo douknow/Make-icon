@@ -4,11 +4,10 @@
   "description": "Generate iOS icon.",
   "main": "./src/index.js",
   "bin": {
-    "cryimage": "./src/index.js"
+    "cryicon": "./src/index.js"
   },
   "dependencies": {
     "cli-progress": "^2.1.0",
-    "progress": "^2.0.1",
     "rimraf": "^2.6.2",
     "sharp": "^0.21.0"
   },
@@ -19,7 +18,7 @@
     "type": "git",
     "url": "git+https://github.com/douknow/Make-icon.git"
   },
-  "author": "Cry",
+  "author": "cry",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/douknow/Make-icon/issues"
