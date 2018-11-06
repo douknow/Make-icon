@@ -1,6 +1,6 @@
 {
   "name": "cry-icon",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Generate iOS icon.",
   "main": "./src/index.js",
   "bin": {
