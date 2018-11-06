@@ -1,0 +1,25 @@
+{
+  "name": "cry-icon",
+  "version": "1.0.0",
+  "description": "Generate iOS icon.",
+  "main": "index.js",
+  "dependencies": {
+    "cli-progress": "^2.1.0",
+    "progress": "^2.0.1",
+    "rimraf": "^2.6.2",
+    "sharp": "^0.21.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/douknow/Make-icon.git"
+  },
+  "author": "Cry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/douknow/Make-icon/issues"
+  },
+  "homepage": "https://github.com/douknow/Make-icon#readme"
+}
