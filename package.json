@@ -20,6 +20,7 @@
   },
   "author": "cry",
   "license": "ISC",
+  "keywords": ["iOS", "icon", "cli", "tool"],
   "bugs": {
     "url": "https://github.com/douknow/Make-icon/issues"
   },
